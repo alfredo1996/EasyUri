@@ -1,0 +1,562 @@
+[
+ {
+   "Test": "Leukocytes",
+   "Time": 120,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 229,
+   "G": 233,
+   "B": 182
+ },
+ {
+   "Test": "Leukocytes",
+   "Time": 120,
+   "Label": "Trace",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 216,
+   "G": 212,
+   "B": 183
+ },
+ {
+   "Test": "Leukocytes",
+   "Time": 120,
+   "Label": "Small",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 188,
+   "G": 183,
+   "B": 163
+ },
+ {
+   "Test": "Leukocytes",
+   "Time": 120,
+   "Label": "Moderate",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 143,
+   "G": 117,
+   "B": 144
+ },
+ {
+   "Test": "Leukocytes",
+   "Time": 120,
+   "Label": "Large",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 129,
+   "G": 100,
+   "B": 144
+ },
+ {
+   "Test": "Nitrite",
+   "Time": 60,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 255,
+   "G": 255,
+   "B": 218
+ },
+ {
+   "Test": "Nitrite",
+   "Time": 60,
+   "Label": "Positive",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 255,
+   "G": 239,
+   "B": 206
+ },
+ {
+   "Test": "Nitrite",
+   "Time": 60,
+   "Label": "Positive",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 255,
+   "G": 206,
+   "B": 197
+ },
+ {
+   "Test": "Urobilinogen",
+   "Time": 60,
+   "Label": "",
+   "Value": "0,2",
+   "Measure Unit": "mg/dL",
+   "R": 254,
+   "G": 202,
+   "B": 152
+ },
+ {
+   "Test": "Urobilinogen",
+   "Time": 60,
+   "Label": "",
+   "Value": "1",
+   "Measure Unit": "mg/dL",
+   "R": 250,
+   "G": 168,
+   "B": 146
+ },
+ {
+   "Test": "Urobilinogen",
+   "Time": 60,
+   "Label": "",
+   "Value": "2",
+   "Measure Unit": "mg/dL",
+   "R": 235,
+   "G": 146,
+   "B": 142
+ },
+ {
+   "Test": "Urobilinogen",
+   "Time": 60,
+   "Label": "",
+   "Value": "4",
+   "Measure Unit": "mg/dL",
+   "R": 240,
+   "G": 138,
+   "B": 134
+ },
+ {
+   "Test": "Urobilinogen",
+   "Time": 60,
+   "Label": "",
+   "Value": "8",
+   "Measure Unit": "mg/dL",
+   "R": 232,
+   "G": 107,
+   "B": 137
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 220,
+   "G": 233,
+   "B": 119
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "Trace",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 186,
+   "G": 111,
+   "B": 109
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "",
+   "Value": "30",
+   "Measure Unit": "mg/dL",
+   "R": 165,
+   "G": 193,
+   "B": 119
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "",
+   "Value": "100",
+   "Measure Unit": "mg/dL",
+   "R": 144,
+   "G": 185,
+   "B": 145
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "",
+   "Value": "300",
+   "Measure Unit": "mg/dL",
+   "R": 112,
+   "G": 175,
+   "B": 154
+ },
+ {
+   "Test": "Protein",
+   "Time": 60,
+   "Label": "",
+   "Value": "2000",
+   "Measure Unit": "mg/dL",
+   "R": 89,
+   "G": 156,
+   "B": 138
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "5",
+   "Measure Unit": "",
+   "R": 241,
+   "G": 129,
+   "B": 74
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "6",
+   "Measure Unit": "",
+   "R": 236,
+   "G": 164,
+   "B": 82
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "6,5",
+   "Measure Unit": "",
+   "R": 220,
+   "G": 192,
+   "B": 83
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "7",
+   "Measure Unit": "",
+   "R": 181,
+   "G": 193,
+   "B": 91
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "7,5",
+   "Measure Unit": "",
+   "R": 129,
+   "G": 165,
+   "B": 77
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "8",
+   "Measure Unit": "",
+   "R": 76,
+   "G": 155,
+   "B": 107
+ },
+ {
+   "Test": "pH",
+   "Time": 60,
+   "Label": "",
+   "Value": "8,5",
+   "Measure Unit": "",
+   "R": 28,
+   "G": 122,
+   "B": 124
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 229,
+   "G": 190,
+   "B": 63
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Non Hemolized Trace",
+   "Value": "",
+   "Measure Unit": "",
+   "R": null,
+   "G": null,
+   "B": null
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Non Hemolized Moderate",
+   "Value": "",
+   "Measure Unit": "",
+   "R": null,
+   "G": null,
+   "B": null
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Hemolized Trace ",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 193,
+   "G": 191,
+   "B": 68
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Small",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 146,
+   "G": 171,
+   "B": 69
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Moderate",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 87,
+   "G": 136,
+   "B": 70
+ },
+ {
+   "Test": "Blood",
+   "Time": 60,
+   "Label": "Large",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 57,
+   "G": 83,
+   "B": 58
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": "1",
+   "Measure Unit": "",
+   "R": 17,
+   "G": 73,
+   "B": 72
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,005 ",
+   "Measure Unit": "",
+   "R": 38,
+   "G": 113,
+   "B": 72
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,010 ",
+   "Measure Unit": "",
+   "R": 95,
+   "G": 124,
+   "B": 80
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,015 ",
+   "Measure Unit": "",
+   "R": 119,
+   "G": 136,
+   "B": 58
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,020 ",
+   "Measure Unit": "",
+   "R": 140,
+   "G": 147,
+   "B": 54
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,025 ",
+   "Measure Unit": "",
+   "R": 139,
+   "G": 143,
+   "B": 48
+ },
+ {
+   "Test": "Specific Gravity",
+   "Time": 45,
+   "Label": "",
+   "Value": " 1,030 ",
+   "Measure Unit": "",
+   "R": 184,
+   "G": 160,
+   "B": 55
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 215,
+   "G": 182,
+   "B": 151
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Trace",
+   "Value": "5",
+   "Measure Unit": "mg/dL",
+   "R": 232,
+   "G": 175,
+   "B": 156
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Small",
+   "Value": "15",
+   "Measure Unit": "mg/dL",
+   "R": 214,
+   "G": 128,
+   "B": 127
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Moderate",
+   "Value": "40",
+   "Measure Unit": "mg/dL",
+   "R": 178,
+   "G": 97,
+   "B": 103
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Large",
+   "Value": "80",
+   "Measure Unit": "mg/dL",
+   "R": 134,
+   "G": 72,
+   "B": 85
+ },
+ {
+   "Test": "Ketone",
+   "Time": 40,
+   "Label": "Large",
+   "Value": "160",
+   "Measure Unit": "mg/dL",
+   "R": 97,
+   "G": 54,
+   "B": 64
+ },
+ {
+   "Test": "Bilirubin",
+   "Time": 30,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 246,
+   "G": 231,
+   "B": 164
+ },
+ {
+   "Test": "Bilirubin",
+   "Time": 30,
+   "Label": "Small",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 237,
+   "G": 216,
+   "B": 163
+ },
+ {
+   "Test": "Bilirubin",
+   "Time": 30,
+   "Label": "Moderate",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 200,
+   "G": 195,
+   "B": 155
+ },
+ {
+   "Test": "Bilirubin",
+   "Time": 30,
+   "Label": "Large",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 191,
+   "G": 173,
+   "B": 149
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "Negative",
+   "Value": "",
+   "Measure Unit": "",
+   "R": 144,
+   "G": 208,
+   "B": 182
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "",
+   "Value": "100",
+   "Measure Unit": "",
+   "R": 140,
+   "G": 196,
+   "B": 135
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "",
+   "Value": "250",
+   "Measure Unit": "",
+   "R": 123,
+   "G": 176,
+   "B": 86
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "",
+   "Value": "500",
+   "Measure Unit": "",
+   "R": 140,
+   "G": 144,
+   "B": 67
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "",
+   "Value": "1000",
+   "Measure Unit": "",
+   "R": 129,
+   "G": 118,
+   "B": 54
+ },
+ {
+   "Test": "Glucose",
+   "Time": 30,
+   "Label": "",
+   "Value": "2000",
+   "Measure Unit": "",
+   "R": 119,
+   "G": 85,
+   "B": 58
+ }
+]
